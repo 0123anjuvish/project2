@@ -1,0 +1,27 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    display: flex;
+    justify-content: center;
+}
+button.all{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+.fail{
+    display: flex;
+    justify-content: center;
+}
+.avg{
+    display: flex;
+    justify-content: center;
+}
+.topper{
+    display: flex;
+    justify-content: center;
+}
+
+    
